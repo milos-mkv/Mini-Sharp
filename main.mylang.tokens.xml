@@ -1,0 +1,24 @@
+<tokens>
+  <keyword>for</keyword>
+  <symbol>(</symbol>
+  <keyword>let</keyword>
+  <identifier>i</identifier>
+  <operator>=</operator>
+  <numberConstant>0</numberConstant>
+  <symbol>,</symbol>
+  <numberConstant>10000</numberConstant>
+  <symbol>,</symbol>
+  <numberConstant>1</numberConstant>
+  <symbol>)</symbol>
+  <symbol>{</symbol>
+  <keyword>do</keyword>
+  <identifier>Std</identifier>
+  <symbol>.</symbol>
+  <identifier>Print</identifier>
+  <symbol>(</symbol>
+  <identifier>i</identifier>
+  <symbol>)</symbol>
+  <symbol>;</symbol>
+  <symbol>}</symbol>
+  <EOF>EOF</EOF>
+</tokens>

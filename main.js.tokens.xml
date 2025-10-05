@@ -1,0 +1,36 @@
+<tokens>
+  <keyword>let</keyword>
+  <identifier>v</identifier>
+  <operator>=</operator>
+  <identifier>a1</identifier>
+  <symbol>.</symbol>
+  <identifier>arr</identifier>
+  <symbol>[</symbol>
+  <numberConstant>1</numberConstant>
+  <symbol>]</symbol>
+  <symbol>.</symbol>
+  <identifier>func</identifier>
+  <symbol>(</symbol>
+  <symbol>)</symbol>
+  <symbol>.</symbol>
+  <identifier>nnn</identifier>
+  <symbol>(</symbol>
+  <symbol>)</symbol>
+  <symbol>;</symbol>
+  <keyword>let</keyword>
+  <identifier>x</identifier>
+  <operator>=</operator>
+  <numberConstant>2</numberConstant>
+  <operator>^</operator>
+  <numberConstant>2</numberConstant>
+  <operator>^</operator>
+  <numberConstant>2</numberConstant>
+  <symbol>;</symbol>
+  <keyword>do</keyword>
+  <identifier>print</identifier>
+  <symbol>(</symbol>
+  <identifier>x</identifier>
+  <symbol>)</symbol>
+  <symbol>;</symbol>
+  <EOF>EOF</EOF>
+</tokens>

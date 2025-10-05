@@ -1,0 +1,163 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]uild/
+[Bb]uildOutput/
+
+# .NET intermediate files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.pdb
+*.mdb
+*.cache
+*.obj
+*.tmp
+*.log
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.g.cs
+*.g.i.cs
+*.AssemblyInfo.cs
+*_i.c
+*_p.c
+*.meta
+*.ilk
+*.ncb
+*.res
+*.pch
+*.idb
+*.tlog
+*.lastcodeanalysissucceeded
+
+# Rider / JetBrains
+.idea/
+.idea_modules/
+.idea/.idea/
+.idea/workspace.xml
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries
+.idea/**/shelf/
+.idea/httpRequests/
+.idea/.idea.*
+.idea/.idea*/dataSources/
+.idea/.idea*/dataSources.local.xml
+.idea/.idea*/dataSources.xml
+.idea/.idea*/sqldialects.xml
+.idea/.idea*/dataSources.ids
+.idea/.idea*/gradle.xml
+.idea/.idea*/libraries/
+.idea/.idea*/markdown-navigator.xml
+.idea/.idea*/modules.xml
+.idea/.idea*/projectSettingsUpdater.xml
+.idea/.idea*/vcs.xml
+.idea/**/contentModel.xml
+.idea/**/workspace.xml
+.idea/**/dataSources/
+.idea/**/dataSources.xml
+.idea/**/dataSources.local.xml
+.idea/**/dataSources.ids
+.idea/**/dataSources.local/
+.idea/**/dataSources.xml
+.idea/**/dataSources.local.xml
+
+# JetBrains Rider plugin files
+.idea/.idea/.idea/
+.idea/.idea/**/workspace.xml
+.idea/.idea/**/tasks.xml
+.idea/.idea/**/shelf/
+
+# Rider settings
+*.DotSettings.user
+.idea/.idea*/tasks.xml
+.idea/.idea*/shelf/
+.idea/.idea*/usage.statistics.xml
+.idea/.idea*/workspace.xml
+.idea/.idea*/contentModel.xml
+
+# User-specific files
+*.userprefs
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.nuget.props
+*.nuget.targets
+*.nuget.cache
+.nuget/
+packages/
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+.nuget/NuGet.Config
+.nuget/NuGet.exe
+.nuget/NuGet.targets
+
+# Dotnet tools
+.dotnet/
+.vscode/
+.env
+*.env
+
+# Backup & temp files
+*.bak
+*.swp
+*.tmp
+*.old
+*.orig
+*~
+
+# OS generated files
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+desktop.ini
+
+# Test results
+TestResult*/
+*.VisualState.xml
+*.coverage
+*.coveragexml
+
+# Publish artifacts
+publish/
+*.publish.xml
+
+# Rider caches
+.idea/.idea*/caches/
+.idea/.idea*/tasks/
+.idea/.idea*/shelf/
+.idea/.idea*/httpRequests/
+
+# JetBrains ReSharper
+_ReSharper*/
+*.ReSharper
+*.DotSettings.user
+
+# Rider temporary projects
+tmp/
+temp/
+__pycache__/
+
+# Local tools
+tools/
